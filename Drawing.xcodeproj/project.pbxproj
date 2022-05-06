@@ -13,6 +13,8 @@
 		F71A96BB2823030400477336 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F71A96BA2823030400477336 /* Preview Assets.xcassets */; };
 		F71A96C22823033500477336 /* Lesson1Path.swift in Sources */ = {isa = PBXBuildFile; fileRef = F71A96C12823033500477336 /* Lesson1Path.swift */; };
 		F71A96C42823069600477336 /* Lesson2PathShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = F71A96C32823069600477336 /* Lesson2PathShape.swift */; };
+		F73A7F652824464600169E5C /* AnimatingShapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = F73A7F642824464600169E5C /* AnimatingShapes.swift */; };
+		F75A681928245F6C006C14AE /* AnimatingComplex.swift in Sources */ = {isa = PBXBuildFile; fileRef = F75A681828245F6C006C14AE /* AnimatingComplex.swift */; };
 		F794DF842823A14B003DDAE0 /* Lesson3.swift in Sources */ = {isa = PBXBuildFile; fileRef = F794DF832823A14B003DDAE0 /* Lesson3.swift */; };
 		F794DF862823B78C003DDAE0 /* Flowers.swift in Sources */ = {isa = PBXBuildFile; fileRef = F794DF852823B78C003DDAE0 /* Flowers.swift */; };
 		F794DF882823C379003DDAE0 /* CreativeBorders.swift in Sources */ = {isa = PBXBuildFile; fileRef = F794DF872823C379003DDAE0 /* CreativeBorders.swift */; };
@@ -28,6 +30,8 @@
 		F71A96BA2823030400477336 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		F71A96C12823033500477336 /* Lesson1Path.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson1Path.swift; sourceTree = "<group>"; };
 		F71A96C32823069600477336 /* Lesson2PathShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson2PathShape.swift; sourceTree = "<group>"; };
+		F73A7F642824464600169E5C /* AnimatingShapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatingShapes.swift; sourceTree = "<group>"; };
+		F75A681828245F6C006C14AE /* AnimatingComplex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatingComplex.swift; sourceTree = "<group>"; };
 		F794DF832823A14B003DDAE0 /* Lesson3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson3.swift; sourceTree = "<group>"; };
 		F794DF852823B78C003DDAE0 /* Flowers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Flowers.swift; sourceTree = "<group>"; };
 		F794DF872823C379003DDAE0 /* CreativeBorders.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreativeBorders.swift; sourceTree = "<group>"; };
@@ -73,8 +77,10 @@
 				F794DF852823B78C003DDAE0 /* Flowers.swift */,
 				F794DF872823C379003DDAE0 /* CreativeBorders.swift */,
 				F7B4C7CD2823E957007EA30C /* DrawingGroup.swift */,
-				F71A96B72823030400477336 /* Assets.xcassets */,
 				F7B4C7CF282402F0007EA30C /* SpecialEffects.swift */,
+				F73A7F642824464600169E5C /* AnimatingShapes.swift */,
+				F75A681828245F6C006C14AE /* AnimatingComplex.swift */,
+				F71A96B72823030400477336 /* Assets.xcassets */,
 				F71A96B92823030400477336 /* Preview Content */,
 			);
 			path = Drawing;
@@ -162,11 +168,13 @@
 				F71A96B62823030000477336 /* ContentView.swift in Sources */,
 				F794DF842823A14B003DDAE0 /* Lesson3.swift in Sources */,
 				F794DF882823C379003DDAE0 /* CreativeBorders.swift in Sources */,
+				F73A7F652824464600169E5C /* AnimatingShapes.swift in Sources */,
 				F71A96C42823069600477336 /* Lesson2PathShape.swift in Sources */,
 				F7B4C7D0282402F0007EA30C /* SpecialEffects.swift in Sources */,
 				F71A96B42823030000477336 /* DrawingApp.swift in Sources */,
 				F7B4C7CE2823E957007EA30C /* DrawingGroup.swift in Sources */,
 				F71A96C22823033500477336 /* Lesson1Path.swift in Sources */,
+				F75A681928245F6C006C14AE /* AnimatingComplex.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
